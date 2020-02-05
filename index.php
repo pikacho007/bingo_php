@@ -44,7 +44,7 @@ function h($s) {
       <?php for ($i = 0; $i < 5; $i++) : ?>
       <tr>
         <?php for ($j = 0; $j < 5; $j++) : ?>
-        <td>1</td>
+        <td><?= h($nums[$i][$j]); ?></td>
         <?php endfor; ?>
       </tr>
         <?php endfor; ?>
