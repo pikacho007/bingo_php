@@ -29,9 +29,7 @@ $nums[2][2] = "FREE";
 // var_dump($nums);
 // exit;
 
-function h($s) {
-  return htmlspecialchars($s, ENT_QUOTES, 'UTF-8');
-}
+
 
 ?>
 
