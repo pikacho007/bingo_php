@@ -41,6 +41,7 @@ function h($s) {
       <tr>
         <th>B</th><th>I</th><th>N</th><th>G</th><th>O</th>
       </tr>
+      <?php for ($i = 0; $i < 5; $i++) : ?>
         <td>1</td>
         <td>1</td>
         <td>1</td>
