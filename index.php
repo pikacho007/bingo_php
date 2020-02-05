@@ -42,12 +42,11 @@ function h($s) {
         <th>B</th><th>I</th><th>N</th><th>G</th><th>O</th>
       </tr>
       <?php for ($i = 0; $i < 5; $i++) : ?>
+      <tr>
+        <?php for ($j = 0; $j < 5; $j++) : ?>
         <td>1</td>
-        <td>1</td>
-        <td>1</td>
-        <td>1</td>
-        <td>1</td>
-
+      </tr>
+        <?php endfor; ?>
     </table>
   </div> 
 </body>
