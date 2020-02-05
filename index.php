@@ -18,8 +18,12 @@ for ($i = 0; $i < 5; $i++) {
   $nums[$i] = array_slice($col,0 ,5);
 }
 
-var_dump($nums);
-exit;
+// var_dump($nums);
+// exit;
+
+function h($s) {
+  return htmlspecialchars($s, ENT_QUOTES, 'UTF-8');
+}
 
 ?>
 
