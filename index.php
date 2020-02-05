@@ -1,5 +1,11 @@
 <?php
 
+require_once(__DIR__.'/config.php');
+require_once(__DIR__.'/Bingo.php');
+
+$bingo = new \MyApp\Bingo();
+$nums = $bingo->create();
+
 /*
 B: $nums[0] 1-15
 B: $nums[1] 16-30
