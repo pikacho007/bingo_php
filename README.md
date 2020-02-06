@@ -12,7 +12,11 @@ bingo_php_newを作って、気をつけて順序よくpushなどをした結果
 
 =======
 #　使用言語
+<<<<<<< HEAD
 >>>>>>> 11cfa03... Changed texts
+=======
+
+>>>>>>> 129ff05... Changed texts
 - HTML
 - CSS
 - PHP
@@ -22,7 +26,11 @@ bingo_php_newを作って、気をつけて順序よくpushなどをした結果
 
 =======
 #　使用ツール
+<<<<<<< HEAD
 >>>>>>> 11cfa03... Changed texts
+=======
+
+>>>>>>> 129ff05... Changed texts
 - VSCode
 - Sourcetree
 - github
