@@ -13,10 +13,14 @@ bingo_php_newを作って、気をつけて順序よくpushなどをした結果
 =======
 #　使用言語
 <<<<<<< HEAD
+<<<<<<< HEAD
 >>>>>>> 11cfa03... Changed texts
 =======
 
 >>>>>>> 129ff05... Changed texts
+=======
+
+>>>>>>> c19d609... Changef texts
 - HTML
 - CSS
 - PHP
@@ -27,10 +31,14 @@ bingo_php_newを作って、気をつけて順序よくpushなどをした結果
 =======
 #　使用ツール
 <<<<<<< HEAD
+<<<<<<< HEAD
 >>>>>>> 11cfa03... Changed texts
 =======
 
 >>>>>>> 129ff05... Changed texts
+=======
+
+>>>>>>> c19d609... Changef texts
 - VSCode
 - Sourcetree
 - github
