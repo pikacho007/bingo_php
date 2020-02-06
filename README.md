@@ -27,4 +27,3 @@ bingo_php_newを作って、気をつけて順序よくpushなどをした結果
 
 3. 次はSoucetreeへ。
 Soucetreeでpush、commitなどをしていく。
-
