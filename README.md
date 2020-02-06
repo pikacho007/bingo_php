@@ -7,21 +7,13 @@ bingo_phpを作ったが、間違えた順序で作ってしまった。
 
 bingo_php_newを作って、気をつけて順序よくpushなどをした結果、うまく言った。
 
-<<<<<<< HEAD
 # 使用言語
-=======
-##　使用言語
->>>>>>> 8b3d3c7... Add h2
 
 - HTML
 - CSS
 - PHP
 
-<<<<<<< HEAD
 # 使用ツール
-=======
-##　使用ツール
->>>>>>> 8b3d3c7... Add h2
 
 - VSCode
 - Sourcetree
