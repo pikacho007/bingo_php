@@ -8,11 +8,13 @@ bingo_phpを作ったが、間違えた順序で作ってしまった。
 bingo_php_newを作って、気をつけて順序よくpushなどをした結果、うまく言った。
 
 #　使用言語
+
 - HTML
 - CSS
 - PHP
 
 #　使用ツール
+
 - VSCode
 - Sourcetree
 - github
