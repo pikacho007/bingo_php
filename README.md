@@ -1,9 +1,13 @@
 # なぜbingo_php_newを作ったのか
 
+あかさたな
+
 Sourcetreeとgithubの練習のため。
 
 bingo_phpを作ったが、間違えた順序で作ってしまった。
 そのためSoucetreeとgithubの連携がうまく行かなかったので、bingo_php_newを代わりに作る。
+
+はまやらわ
 
 bingo_php_newを作って、気をつけて順序よくpushなどをした結果、うまく言った。
 
