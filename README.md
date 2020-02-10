@@ -1,5 +1,7 @@
 # なぜbingo_php_newを作ったのか
 
+あかさたな
+
 Sourcetreeとgithubの練習のため。
 
 bingo_phpを作ったが、間違えた順序で作ってしまった。
