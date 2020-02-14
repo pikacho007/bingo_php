@@ -5,16 +5,21 @@ SourcetreeとGithub連携の練習のため。
 
 # 使用言語
 ・HTML
+
 ・CSS
+
 ・PHP
 
 # 使用ツール
 ・VSCode
+
 ・SourceTree
+
 ・Github
 
 # 私が行った手順
 1. Github,SourceTreeのリモートリポジトリにあげたいファイル、フォルダをローカル環境に用意。
+
 2. ブラウザにて、自分のGithubページから「new」で新しいrepositoryを作る。
 この時、「Initialize this repository with a README.md」にチェックは入れない。
 チェックを入れてしまった場合、この時点で自動でinitial  commitが作られてしまう。
